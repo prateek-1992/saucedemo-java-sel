@@ -1,2 +1,4 @@
 .idea
 java-selenium.iml
+/target/
+/bin/
